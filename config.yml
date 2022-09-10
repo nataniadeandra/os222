@@ -1,0 +1,13 @@
+# version:   "0026--06-Sep-2022"
+copyright:   "2022"
+author:      "nataniadeandra"
+name:        "Natania Deandra"
+title:       "OS222: Operating Systems 2022-2"
+githublink:  "https://github.com/nataniadeandra/os222/"
+myloglink:   "/TXT/mylog.txt"
+tarballlink: "https://os.vlsm.org/Log/nataniadeandra.tar.bz2.txt"
+encoding:    UTF-8
+markdown:    kramdown
+input:       GFM
+hard_wrap:   false
+github:      [metadata]
