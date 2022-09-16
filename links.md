@@ -20,6 +20,9 @@ This site shows several ways to redirect the echo output into a file. Filled wit
 2. [Echo Command in Linux](https://www.geeksforgeeks.org/echo-command-in-linux-with-examples/)<br>
 The echo command in linux is used to display line of text/string that are passed as an argument. This is a built in command that is mostly used in shell scripts and batch files to output status text to the screen or a file. This site will show you how to use the echo command with examples.
 
+3. [How to Delete GPG Keys in Linux](https://linuxhint.com/delete-gpg-keys-linux/)<br>
+Not only this site explains how to delete revoked, unsigned, and expired keys, it also shows us types of GPG keys along with the difference between them. Very easy to understand as it is also filled with examples.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
