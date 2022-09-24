@@ -23,8 +23,15 @@ The echo command in linux is used to display line of text/string that are passed
 3. [How to Delete GPG Keys in Linux](https://linuxhint.com/delete-gpg-keys-linux/)<br>
 Not only this site explains how to delete revoked, unsigned, and expired keys, it also shows us types of GPG keys along with the difference between them. Very easy to understand as it is also filled with examples.
 
+4. [Linux Regular Expressions](https://www.guru99.com/linux-regular-expressions.html)<br>
+Linux Regular Expressions are special characters which help search data and matching complex patterns. Regular expressions are shortened as ‘regexp’ or ‘regex’. They are used in many Linux programs like grep, bash, rename, sed, etc.
+
+5. [How to Use Regular Expressions (RegEx) on Linux](https://www.geeksforgeeks.org/how-to-use-regular-expressions-regex-on-linux/)<br>
+Regexps are acronyms for regular expressions. Regular expressions are special characters or sets of characters that help us to search for data and match the complex pattern. Regexps are most commonly used with the Linux commands:- grep, sed, tr, vi.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
 <br>
+
