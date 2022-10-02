@@ -29,6 +29,15 @@ Linux Regular Expressions are special characters which help search data and matc
 5. [How to Use Regular Expressions (RegEx) on Linux](https://www.geeksforgeeks.org/how-to-use-regular-expressions-regex-on-linux/)<br>
 Regexps are acronyms for regular expressions. Regular expressions are special characters or sets of characters that help us to search for data and match the complex pattern. Regexps are most commonly used with the Linux commands:- grep, sed, tr, vi.
 
+6. [Learn C Programming](https://www.programiz.com/c-programming)<br>
+C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners.
+
+7. [C Programming Language Tutorial](https://www.javatpoint.com/c-programming-language-tutorial)<br>
+C language Tutorial with programming approach for beginners and professionals, helps you to understand the C language tutorial easily. This tutorial explains each topic with programs.
+
+8. [C Tutorial](https://www.w3schools.com/c/)<br>
+C is a general-purpose programming language, developed in 1972, and still quite popular. C is very powerful; it has been used to develop operating systems, databases, applications, etc.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
