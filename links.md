@@ -38,6 +38,15 @@ C language Tutorial with programming approach for beginners and professionals, h
 8. [C Tutorial](https://www.w3schools.com/c/)<br>
 C is a general-purpose programming language, developed in 1972, and still quite popular. C is very powerful; it has been used to develop operating systems, databases, applications, etc.
 
+9. [Little and Big Endian Mystery](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)<br>
+Little and big endian are two ways of storing multibyte data-types ( int, float, etc). In little endian machines, last byte of binary representation of the multibyte data-type is stored first. On the other hand, in big endian machines, first byte of binary representation of the multibyte data-type is stored first.
+
+10. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+Virtual Memory is a storage allocation scheme in which secondary memory can be addressed as though it were part of the main memory. The addresses a program may use to reference memory are distinguished from the addresses the memory system uses to identify physical storage sites, and program-generated addresses are translated automatically to the corresponding machine addresses.
+
+11. [Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
+A computer can address more memory than the amount physically installed on the system. This extra memory is actually called virtual memory and it is a section of a hard disk that's set up to emulate the computer's RAM.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
