@@ -57,7 +57,14 @@ A computer can address more memory than the amount physically installed on the s
 This site explains concurrency as the execution of the multiple instruction sequences at the same time. Very precise and easy to understand.
 
 2. [Process Synchronization in OS](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/)<br>
-This site explains process synchronization as the way by which processes that share the same memory space are managed in an operating system. In which it helps maintain the consistency of data by using variables or hardware so that only one process can make changes to the shared memory at a time.
+This site explains process synchronization as the way by which processes that share the same memory space are managed in an operating system. In which it helps to maintain the consistency of data by using variables or hardware so that only one process can make changes to the shared memory at a time.
+
+## WEEK 07
+1. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+Deadlock is a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process.This site explains it all.
+
+2. [Various Synchronization](https://www.javatpoint.com/os-process-synchronization-introduction)<br>
+The procedure involved in preserving the appropriate order of execution of cooperative processes is known as Process Synchronization. There are various synchronization mechanisms that are used to synchronize the processes. This site explains it all.
 
 <br>
 <hr>
