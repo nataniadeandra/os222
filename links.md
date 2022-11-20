@@ -1,14 +1,7 @@
 ---
 permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
-<br><br>
-[HOME]({{ site.baseurl }}/) ---
-[LINKS]({{ site.baseurl }}/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL]({{ site.tarballlink }}) ---
-[GITHUB]({{ site.githublink }})
+
 <br>
 <hr>
 
@@ -61,10 +54,17 @@ This site explains process synchronization as the way by which processes that sh
 
 ## WEEK 07
 1. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
-Deadlock is a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process.This site explains it all.
+Deadlock is a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process. This site explains it all.
 
 2. [Various Synchronization](https://www.javatpoint.com/os-process-synchronization-introduction)<br>
 The procedure involved in preserving the appropriate order of execution of cooperative processes is known as Process Synchronization. There are various synchronization mechanisms that are used to synchronize the processes. This site explains it all.
+
+## WEEK 08
+1. [Ways to Fix “No Space Left on Device” Error in Linux](https://helpdeskgeek.com/linux-tips/top-3-ways-to-fix-no-space-left-on-device-error-in-linux/#:~:text=The%20most%20probable%20cause%20of,the%20lsof%20and%20grep%20commands.)<br>
+Getting a “No place left on device error” explains very little. Why is this error message showing up? Why can’t you create new files despite having sufficient space on the disk? And most importantly, how do you fix it?
+
+2. [g++ fatal error: killed signal terminated program cc1plus](https://stackoverflow.com/questions/66967848/g-fatal-error-killed-signal-terminated-program-cc1plus-when-trying-to-install)<br>
+Have you ever gotten this error? This site is for you.
 
 <br>
 <hr>
