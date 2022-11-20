@@ -2,7 +2,6 @@
 permalink: LINKS/
 ---
 
-<br>
 <hr>
 
 # LINKS
@@ -66,9 +65,6 @@ Getting a “No place left on device error” explains very little. Why is this 
 2. [g++ fatal error: killed signal terminated program cc1plus](https://stackoverflow.com/questions/66967848/g-fatal-error-killed-signal-terminated-program-cc1plus-when-trying-to-install)<br>
 Have you ever gotten this error? This site is for you.
 
-<br>
-<hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
 <br>
 
